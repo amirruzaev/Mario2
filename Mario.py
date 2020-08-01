@@ -2,6 +2,7 @@ import pygame
 from Player import Player
 from Generate_level import generateLevel
 
+print("hello")
 
 PW = 32
 PH = 32
